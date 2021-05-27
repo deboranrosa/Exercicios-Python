@@ -1,0 +1,12 @@
+Quando falamos sobre erros e exceções, algumas fontes de informação consideram
+que no processo de depuração, podemos encontrar três tipos de erro: erro de sintaxe,
+erro de tempo de execução e erro semântico. Defina o conceito de cada um deles
+a) Erro de sintaxe
+b) Erro de tempo de execução
+c) Erro semântico
+
+a) Erro de sintaxe - É quando a um erro de escrita. Quando o interpretador não consegue compreender alguma determinada parte do código.
+
+b) Erro de tempo de execução - É quando o erro acontece enquanto o programa está sendo executado. 
+
+c) Erro semântico - É um erro na lógica do programa.
